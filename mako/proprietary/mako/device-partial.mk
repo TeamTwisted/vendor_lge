@@ -31,3 +31,4 @@ PRODUCT_COPY_FILES := \
     vendor/lge/mako/proprietary/mako/proprietary/libWVphoneAPI.so:system/vendor/lib/libWVphoneAPI.so \
     vendor/lge/mako/proprietary/mako/proprietary/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/lge/mako/proprietary/mako/proprietary/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
+
