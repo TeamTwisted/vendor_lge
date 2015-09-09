@@ -20,7 +20,7 @@ PRODUCT_COPY_FILES := \
     vendor/lge/hammerhead/qcom/hammerhead/proprietary/ds_fmc_appd:system/bin/ds_fmc_appd:qcom \
     vendor/lge/hammerhead/qcom/hammerhead/proprietary/irsc_util:system/bin/irsc_util:qcom \
     vendor/lge/hammerhead/qcom/hammerhead/proprietary/mm-qcamera-daemon:system/bin/mm-qcamera-daemon:qcom \
-    vendor/lge/hammerhead/qcom/hammerhead/proprietary/mpdecision:system/bin/mpdecision:qcom \
+    vendor/lge/hammerhead/qcom/hammerhead/proprietary/mpdecision:system/bin/mpdecision_bck:qcom \
     vendor/lge/hammerhead/qcom/hammerhead/proprietary/netmgrd:system/bin/netmgrd:qcom \
     vendor/lge/hammerhead/qcom/hammerhead/proprietary/nl_listener:system/bin/nl_listener:qcom \
     vendor/lge/hammerhead/qcom/hammerhead/proprietary/port-bridge:system/bin/port-bridge:qcom \
@@ -30,7 +30,7 @@ PRODUCT_COPY_FILES := \
     vendor/lge/hammerhead/qcom/hammerhead/proprietary/rmt_storage:system/bin/rmt_storage:qcom \
     vendor/lge/hammerhead/qcom/hammerhead/proprietary/sensors.qcom:system/bin/sensors.qcom:qcom \
     vendor/lge/hammerhead/qcom/hammerhead/proprietary/subsystem_ramdump:system/bin/subsystem_ramdump:qcom \
-    vendor/lge/hammerhead/qcom/hammerhead/proprietary/thermal-engine-hh:system/bin/thermal-engine-hh:qcom \
+    vendor/lge/hammerhead/qcom/hammerhead/proprietary/thermal-engine-hh:system/bin/thermal-engine-hh_bck:qcom \
     vendor/lge/hammerhead/qcom/hammerhead/proprietary/time_daemon:system/bin/time_daemon:qcom \
     vendor/lge/hammerhead/qcom/hammerhead/proprietary/usbhub:system/bin/usbhub:qcom \
     vendor/lge/hammerhead/qcom/hammerhead/proprietary/usbhub_init:system/bin/usbhub_init:qcom \
