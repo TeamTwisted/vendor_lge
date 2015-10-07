@@ -16,7 +16,9 @@
 
 # Live wallpaper packages
 PRODUCT_PACKAGES := \
+    LiveWallpapers \
     LiveWallpapersPicker \
+    VisualizationWallpapers \
     librs_jni
 
 # Publish that we support the live wallpaper feature.
