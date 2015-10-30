@@ -43,7 +43,7 @@ PRODUCT_COPY_FILES := \
     vendor/lge/hammerhead/proprietary/libvss_nv_core.so:system/vendor/lib/libvss_nv_core.so:lge \
     vendor/lge/hammerhead/proprietary/libvss_nv_idl.so:system/vendor/lib/libvss_nv_idl.so:lge \
     vendor/lge/hammerhead/proprietary/libvss_nv_iface.so:system/vendor/lib/libvss_nv_iface.so:lge \
-vendor/lge/hammerhead/proprietary/librpmb.so:system/lib/librpmb.so \
+vendor/lge/hammerhead/proprietary/librpmb.so:system/lib/librpmb.so:lge \
 vendor/lge/hammerhead/proprietary/libssd.so:system/vendor/lib/libssd.so:qcom \
 vendor/lge/hammerhead/proprietary/libwvm.so:system/vendor/lib/libwvm.so:qcom \
 vendor/lge/hammerhead/proprietary/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so:qcom \
@@ -51,3 +51,5 @@ vendor/lge/hammerhead/proprietary/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.s
 vendor/lge/hammerhead/proprietary/libWVphoneAPI.so:system/vendor/lib/libWVphoneAPI.so:qcom \
 vendor/lge/hammerhead/proprietary/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so:qcom \
 vendor/lge/hammerhead/proprietary/liblbs_core.so:system/vendor/lib/liblbs_core.so:qcom \
+vendor/lge/hammerhead/proprietary/libcamera_metadata.so:system/lib/libcamera_metadata.so:lge \
+vendor/lge/hammerhead/proprietary/libmmcamera_interface.so:system/lib/libmmcamera_interface.so:lge \
