@@ -20,7 +20,7 @@ PRODUCT_PACKAGES += \
     TimeService \
     UpdateSetting
 
-LOCAL_STEM := hammerhead/device-partial.mk
+LOCAL_STEM := hammerhead/hammerhead-vendor-blobs.mk
 
 $(call inherit-product-if-exists, vendor/broadcom/$(LOCAL_STEM))
 $(call inherit-product-if-exists, vendor/lge/$(LOCAL_STEM))
